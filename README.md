@@ -1,4 +1,4 @@
-## CRM客户管理系统PRD
+# CRM客户管理系统PRD
 
 ### 1. 业务背景
 
@@ -19,13 +19,13 @@
 
 - **用例说明**：
 
-<img src="https://github.com/zzyylliu/CRM-/blob/master/images/%E7%94%A8%E4%BE%8B%E5%9B%BE.png">
+<img src="https://github.com/zzyylliu/CRM-/blob/master/images/%E7%94%A8%E4%BE%8B%E5%9B%BE.png" height="800">
 
 > 红色部分为本期迭代范围
 
 #### 2.2 本期范围
 
-| 序号 | 需求内容                                           | 优先级 |
+| 序号 | 需求内容                                                  | 优先级        |
 | ---------- | ---------------------------------------------------------------- | -------------------- |
 | 1    | 新建客户页面                                       | P0     |
 | 2    | 增加客户信息编辑功能                               | P0     |
