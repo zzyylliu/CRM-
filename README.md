@@ -19,7 +19,7 @@
 
 - **用例说明**：
 
-<img src="https://github.com/zzyylliu/CRM-/blob/master/images/%E7%94%A8%E4%BE%8B%E5%9B%BE.png" height="500">
+<img src="https://github.com/zzyylliu/CRM-/blob/master/images/%E7%94%A8%E4%BE%8B%E5%9B%BE.png" height="650">
 
 > 红色部分为本期迭代范围
 
