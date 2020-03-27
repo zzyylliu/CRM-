@@ -11,13 +11,13 @@
 
 #### 2.1 总体方案说明
 
-- **场景分析**：
+- **应用场景**：
 
 <img src="https://github.com/zzyylliu/CRM-/blob/master/images/%E6%97%B6%E5%BA%8F%E5%9B%BE.png">
 
 > 灰色部分为标准销售流程，除签约外其他流程可跳过。
 
-- **用例说明**：
+- **用例分析**：
 
 <img src="https://github.com/zzyylliu/CRM-/blob/master/images/%E7%94%A8%E4%BE%8B%E5%9B%BE.png">
 
