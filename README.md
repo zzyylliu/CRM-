@@ -59,25 +59,25 @@
 
 修改页面主要管理以下信息：基础信息、背景信息、联系人信息、三证信息、银行信息
 
-基础信息主要有以下:
+- 基础信息主要有以下:
 
 <img src="https://github.com/zzyylliu/CRM-/blob/master/images/%E5%9F%BA%E7%A1%80%E4%BF%A1%E6%81%AF.png">
 
 点击`修改`按钮，则客户修改成功
 
-背景信息主要有以下：
+- 背景信息主要有以下：
 
 <img src="https://github.com/zzyylliu/CRM-/blob/master/images/%E8%83%8C%E6%99%AF%E4%BF%A1%E6%81%AF.png">
 
 点击`修改`按钮，则客户修改成功
 
-联系人信息有以下：
+- 联系人信息有以下：
 
 <img src="https://github.com/zzyylliu/CRM-/blob/master/images/%E8%81%94%E7%B3%BB%E4%BA%BA%E4%BF%A1%E6%81%AF.png">
 
 该表单负责维护联系人的一些常用信息，支持新增或停用联系人
 
-三证信息有以下：
+- 三证信息有以下：
 
 <img src="https://github.com/zzyylliu/CRM-/blob/master/images/%E4%B8%89%E8%AF%81%E4%BF%A1%E6%81%AF.png">
 
@@ -87,7 +87,7 @@
 
 由于签合同的时候三证未必全部都能拿到，三证信息非必填
 
-银行信息主要有以下三部分：
+- 银行信息主要有以下三部分：
 
 <img src="https://github.com/zzyylliu/CRM-/blob/master/images/%E5%BC%80%E7%A5%A8%E4%BF%A1%E6%81%AF.png">
 
@@ -131,7 +131,7 @@
 
 阶段可以不连续，提案阶段需要确定品牌、房间数以及折扣，签约阶段需上传合同附件
 
-销售人员可更改销售阶段，点击`更改销售阶段`按钮显示如下界面：
+- 销售人员可更改销售阶段，点击`更改销售阶段`按钮显示如下界面：
 
 <img src="https://github.com/zzyylliu/CRM-/blob/master/images/%E6%8B%9C%E8%AE%BF%E9%98%B6%E6%AE%B5.png">
 
@@ -142,7 +142,7 @@
 点击`取消`按钮，则关闭弹框，系统不做其他操作
 
 
-进入到签约阶段，系统会显示以下界面：
+- 进入到签约阶段，系统会显示以下界面：
 
 <img src="https://github.com/zzyylliu/CRM-/blob/master/images/%E7%AD%BE%E7%BA%A6%E9%98%B6%E6%AE%B5.png">
 
